@@ -2,7 +2,7 @@ export default function App() {
   return (
     <div style={{
       background: "#eee",
-      color: "white",
+      color: "red",
       padding: "40px",
       fontFamily: "Arial"
     }}>
