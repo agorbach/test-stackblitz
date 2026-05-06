@@ -1,8 +1,8 @@
 export default function App() {
   return (
     <div style={{
-      background: "#eee",
-      color: "red",
+      background: "#222",
+      color: "green",
       padding: "40px",
       fontFamily: "Arial"
     }}>
